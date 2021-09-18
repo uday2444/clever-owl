@@ -250,10 +250,10 @@ sections:
     grid_items:
       - title: Address
         content: |
-          Thyagraj Nagar , Basavanagudi \</br>
-          Bangalore, 500070 \</br>
-          90664 94937 \</br>
-          www.trustsecur@gmail.com \</br>
+          Thyagraj Nagar , Basavanagudi \<br/>
+          Bangalore, 500070 \<br/>
+          90664 94937 \<br/>
+          www.trustsecur@gmail.com \<br/>
 
           **Time:** 9:30 AM to 6:30 PM
       - title: Follow Us
