@@ -30,7 +30,7 @@ sections:
         name: Email
         label: Email
         options: []
-        is_required: false
+        is_required: true
         default_value: email id
       - input_type: text
         name: lorem-ipsum
