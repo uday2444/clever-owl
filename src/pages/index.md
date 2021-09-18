@@ -130,7 +130,6 @@ sections:
         image_alt: Speaker 2 photo
         image_position: top
       - title: FMCG BTL Services
-        subtitle: 'Microsoft, USA'
         image: images/resize-163198841962568202abstractblurdefocusedsupermarket2.jpg
         image_alt: Speaker 3 photo
         image_position: top
