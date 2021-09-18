@@ -5,7 +5,7 @@ sections:
     actions: []
     align: center
     padding_bottom: none
-    background_color: none
+    background_color: primary
     title: Get in touch
     content: |+
       It's pleasure connecting, looking to your valuable association
