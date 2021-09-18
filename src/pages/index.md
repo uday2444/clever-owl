@@ -150,7 +150,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/food-delivery-man-buying-products-grocery-store.jpg
+        image: images/resize-163198841962568202abstractblurdefocusedsupermarket2.jpg
         image_alt: Speaker 3 photo
         image_position: top
     grid_cols: three
