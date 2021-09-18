@@ -192,7 +192,7 @@ sections:
     title: How Do We Work !
     subtitle: 'Supporting The Cause, Building Working Together Platform'
     features:
-      - title: Fast tracks Iconic Nike campaign with the JAMstack
+      - title: Strategy
         content: >-
           Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
           Crazy’ campaign and approached digital agency Matter Supply to launch
