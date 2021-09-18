@@ -142,7 +142,7 @@ sections:
         image: images/marketingstrategies.jpg
         image_alt: Speaker 2 photo
         image_position: top
-      - title: Indigo Violet
+      - title: FMCG BTL Services
         subtitle: 'Microsoft, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
