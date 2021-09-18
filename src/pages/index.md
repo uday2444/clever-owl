@@ -215,8 +215,7 @@ sections:
         align: left
         title: Goals & Objectives
         image: images/goals3.jpeg
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
