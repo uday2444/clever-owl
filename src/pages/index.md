@@ -190,7 +190,7 @@ sections:
     background_image_opacity: 50
   - type: features_section
     title: Watch Favorite Talks From Past Events
-    subtitle: '2020'
+    subtitle: 'Supporting The Cause, Building Working Together Platform'
     features:
       - title: Fast tracks Iconic Nike campaign with the JAMstack
         content: >-
