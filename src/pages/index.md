@@ -227,6 +227,7 @@ sections:
         media_width: fifty
         align: left
         title: Operations Management
+        image: images/operations.jpeg
     feature_padding_vert: large
     align: center
     padding_top: large
