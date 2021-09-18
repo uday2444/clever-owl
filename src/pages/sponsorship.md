@@ -72,7 +72,7 @@ Product: - Being familiar with the entire category product line that falls in.
 
 **Management information system (Mis): -**  Backbone of the organization's operations, data extracted from various sources, and derive insights that drive business growth
 
-> **Marketing strategie**
+> **Marketing strategies**
 
 ***
 
