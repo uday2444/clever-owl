@@ -131,7 +131,7 @@ sections:
         image: images/resize-1631987546251740117facility.jpeg
         image_alt: Speaker 1 photo
         image_position: top
-      - title: Parsley Montana
+      - title: FMCG BTL Services
         subtitle: 'The Studio, Distributed, Estonia'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
