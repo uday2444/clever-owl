@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Define. Excel. Accelerate.
 sections:
   - type: hero_section
     title: Inspire. Create. Build.
