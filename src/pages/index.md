@@ -132,7 +132,7 @@ sections:
         title_align: center
         actions_align: center
         actions:
-          - label: lorem-ipsum
+          - label: E
             url: '#'
             style: link
             has_icon: false
