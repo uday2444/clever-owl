@@ -11,7 +11,6 @@ sections:
       It's pleasure connecting, looking to your valuable association
 
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
