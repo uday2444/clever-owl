@@ -35,7 +35,8 @@ sections:
       - input_type: select
         name: Subject
         label: Subject
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
       - input_type: text
         name: lorem-ipsum
