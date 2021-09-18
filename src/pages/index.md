@@ -31,7 +31,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
-      - title: 2 Tracks
+      - title: What We Believe
         title_align: left
         content: >+
           We believe Business associates; employees are the extension of our
