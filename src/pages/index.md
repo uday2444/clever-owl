@@ -140,6 +140,7 @@ sections:
             icon_position: right
             new_window: false
             no_follow: false
+        actions_width: full-width
       - title: FMCG BTL Services
         image: images/resize-163198841962568202abstractblurdefocusedsupermarket2.jpg
         image_alt: Speaker 3 photo
