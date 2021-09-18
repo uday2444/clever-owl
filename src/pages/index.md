@@ -226,6 +226,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        title: Goals & Objectives
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
