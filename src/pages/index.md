@@ -119,7 +119,6 @@ sections:
     background_color: none
   - type: grid_section
     title: Services We Offer
-    subtitle: Fantastic lineup of experts!
     grid_items:
       - title: Eric Widget
         subtitle: 'React Awesome, USA'
