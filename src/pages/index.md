@@ -131,6 +131,15 @@ sections:
         image_position: top
         title_align: center
         actions_align: center
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
       - title: FMCG BTL Services
         image: images/resize-163198841962568202abstractblurdefocusedsupermarket2.jpg
         image_alt: Speaker 3 photo
