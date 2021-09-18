@@ -204,7 +204,7 @@ sections:
           A maneuver or action calculated to achieve some end
 
         media_position: left
-        media_width: sixty
+        media_width: fourty
         image: images/tactic.jpeg
     feature_padding_vert: large
     align: center
