@@ -33,7 +33,11 @@ sections:
         image_width: twenty-five
       - title: 2 Tracks
         title_align: left
-        content: Two tracks conference for curious developers.
+        content: >+
+          We believe Business associates; employees are the extension of our
+          organization hence we should always be grateful and challenged by
+          helping them to improve.
+
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon
