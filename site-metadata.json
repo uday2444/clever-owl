@@ -6,7 +6,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "TSFM",
-        "logo": "images/download (5).svg",
+        "logo": "images/trust-logo.jpeg",
         "logo_alt": "Event logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
