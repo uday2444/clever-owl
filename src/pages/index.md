@@ -43,8 +43,7 @@ sections:
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
-      - title: 20+ Speakers
-        title_align: left
+      - title_align: left
         content: >+
           We "Work - Grow - Align" the whole process towards a common purpose
           which will be a starting point for generating useful value to
