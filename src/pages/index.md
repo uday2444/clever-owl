@@ -204,10 +204,9 @@ sections:
         media_position: right
         media_width: sixty
       - title: Tactic
-        content: >-
-          JAMstack is revolutionising the way we think about workflow by
-          providing a simpler developer experience, better performance, lower
-          cost and greater scalability. From JAMstack WTF
+        content: |+
+          A maneuver or action calculated to achieve some end
+
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/31WieWrYPqc" frameborder="0"
