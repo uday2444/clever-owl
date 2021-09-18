@@ -150,7 +150,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/abstract-blur-defocused-supermarket (1) (1).jpg
+        image: images/abstract-blur-defocused-supermarket (2) (1).jpg
         image_alt: Speaker 3 photo
         image_position: top
     grid_cols: three
