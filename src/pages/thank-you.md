@@ -33,7 +33,7 @@ sections:
         is_required: true
         default_value: email id
       - input_type: select
-        name: lorem-ipsum
+        name: Subject
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
