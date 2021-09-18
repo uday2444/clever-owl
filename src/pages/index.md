@@ -126,12 +126,6 @@ sections:
         image_position: top
         title_align: center
       - title: Marketing Strategies
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
         image: images/marketingstrategies.jpg
         image_alt: Speaker 2 photo
         image_position: top
