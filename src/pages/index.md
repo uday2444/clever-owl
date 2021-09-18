@@ -134,6 +134,7 @@ sections:
             icon_position: center
             new_window: false
             no_follow: false
+        actions_align: center
       - title: Marketing Strategies
         image: images/marketingstrategies.jpg
         image_alt: Speaker 2 photo
