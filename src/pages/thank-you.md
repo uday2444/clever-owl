@@ -38,7 +38,7 @@ sections:
         options:
           - Security
         is_required: true
-      - input_type: text
+      - input_type: textarea
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
