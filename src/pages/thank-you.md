@@ -29,7 +29,6 @@ sections:
       - input_type: email
         name: Email
         label: Email
-        default_value: lorem-ipsum
         options: []
         is_required: false
       - input_type: text
