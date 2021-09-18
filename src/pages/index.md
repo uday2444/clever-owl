@@ -54,6 +54,7 @@ sections:
         image_alt: Section item 3 icon
         image_position: left
         image_width: twenty-five
+        title: ' What We Do'
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
