@@ -158,7 +158,7 @@ sections:
         title_align: center
         actions:
           - label: Read More
-            url: '#'
+            url: /sponsorship
             style: link
             has_icon: false
             icon: arrow-left
