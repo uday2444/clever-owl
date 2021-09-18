@@ -215,17 +215,9 @@ sections:
         align: left
         title: Goals & Objectives
         image: images/goals3.jpeg
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: >
+          Management of processes that transform inputs into goods and services
+          that add value for the customer.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
