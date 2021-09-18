@@ -23,7 +23,7 @@ sections:
       - input_type: text
         name: Name
         label: Name
-        default_value: Your Nmae
+        default_value: Your Name
         options: []
         is_required: false
       - input_type: text
