@@ -131,7 +131,7 @@ sections:
         image: images/resize-1631987546251740117facility.jpeg
         image_alt: Speaker 1 photo
         image_position: top
-      - title: FMCG BTL Services
+      - title: Marketing Strategies
         subtitle: 'The Studio, Distributed, Estonia'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
