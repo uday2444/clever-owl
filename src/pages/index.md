@@ -157,7 +157,7 @@ sections:
         image_position: top
         title_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Read More
             url: '#'
             style: link
             has_icon: false
