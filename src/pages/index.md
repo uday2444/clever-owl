@@ -121,12 +121,6 @@ sections:
     title: Services We Offer
     grid_items:
       - title: Facility Management
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
         image: images/resize-1631987546251740117facility.jpeg
         image_alt: Speaker 1 photo
         image_position: top
