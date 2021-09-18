@@ -25,7 +25,7 @@ template: page
 
 ##
 
-#### **Services offered**
+#### **Services Offered**
 
 **Security services: -** It is a very crucial aspect which too is scrutinized, evaluating loop polls and ensuring all the things to adhere in the right manner. Security has a vital role; we can describe it as protection to all beloved. Our team is concerned with all of our valued associates and is happy to be a helping hand for the needy. Due to a lack of security in the respective premises, many are facing sleepless nights.
 It’s our pleasure to come up with a solution to make enjoyable days, peaceful sleepy nights. We commit to serve 24/7, keeping a close eye for protecting you and your loved ones with all required safety measures, equipment with deploying well-trained staff.
@@ -64,11 +64,9 @@ We trust 4p’s will be a game-changer in this role which can be derived
 
 Product: - Being familiar with the entire category product line that falls in.
 
-
 **Placement: -** To be located in high shopper’s density areas with positioning eye level of specific goods.
 
-
-**Price: - **Dealing with discount offering area comparative with competitors’ price. As price factor plays a vital role in customers purchase
+\*\*Price: - \*\*Dealing with discount offering area comparative with competitors’ price. As price factor plays a vital role in customers purchase
 
 **Decisions promotion: -** Being aware of all promotional aspects much impacts on intensifying conversion ratio Competent advice to the consumers
 
