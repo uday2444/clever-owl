@@ -121,7 +121,6 @@ sections:
     title: Services We Offer
     grid_items:
       - title: Facility Management
-        subtitle: 'React Awesome, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
