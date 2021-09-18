@@ -133,7 +133,7 @@ sections:
         actions_align: center
         actions:
           - label: Read More
-            url: '#/sponsorship'
+            url: /sponsorship
             style: link
             has_icon: false
             icon: arrow-left
