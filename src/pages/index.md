@@ -210,9 +210,6 @@ sections:
           Maximize efficiency that effectively fulfill associate’s needs.
         actions: []
         image_alt: Goals
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: right
         media_width: fifty
         align: left
