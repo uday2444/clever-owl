@@ -196,11 +196,6 @@ sections:
         content: |+
           A plan of action intended to accomplish a specific goal.
 
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/2rA_ucpQ_Fk" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: right
         media_width: sixty
       - title: Tactic
