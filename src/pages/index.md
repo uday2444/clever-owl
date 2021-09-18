@@ -165,6 +165,7 @@ sections:
             icon_position: right
             new_window: false
             no_follow: false
+        actions_align: center
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
