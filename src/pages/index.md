@@ -203,11 +203,6 @@ sections:
         content: |+
           A maneuver or action calculated to achieve some end
 
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/31WieWrYPqc" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: sixty
         image: images/tactic.jpeg
