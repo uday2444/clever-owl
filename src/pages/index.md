@@ -211,7 +211,7 @@ sections:
         actions: []
         image_alt: Goals
         media_position: right
-        media_width: sixty
+        media_width: fourty
         align: left
         title: Goals & Objectives
         image: images/goals3.jpeg
