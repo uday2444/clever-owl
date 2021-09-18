@@ -130,6 +130,7 @@ sections:
         image: images/resize-1631987546251740117facility.jpeg
         image_alt: Speaker 1 photo
         image_position: top
+        title_align: center
       - title: Marketing Strategies
         subtitle: 'The Studio, Distributed, Estonia'
         content: >-
