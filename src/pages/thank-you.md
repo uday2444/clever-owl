@@ -37,7 +37,7 @@ sections:
         label: Subject
         options:
           - Security
-        is_required: false
+        is_required: true
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
