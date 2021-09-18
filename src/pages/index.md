@@ -20,7 +20,7 @@ sections:
     background_image_size: cover
   - type: grid_section
     grid_items:
-      - title: 2 Days
+      - title: Make Better Decisions With Humanity
         title_align: left
         content: >+
           Rather than importing leaders, we make grow leaders who thoroughly
