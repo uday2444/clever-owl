@@ -13,6 +13,9 @@ sections:
     padding_bottom: large
     background_color: none
     title: Get in touch
+    content: |+
+      It's pleasure connecting, looking to your valuable association
+
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
