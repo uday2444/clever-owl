@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     actions: []
     align: center
-    padding_bottom: large
+    padding_bottom: none
     background_color: none
     title: Get in touch
     content: |+
