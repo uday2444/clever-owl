@@ -128,7 +128,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/facility.jpeg
+        image: images/resize-1631987546251740117facility.jpeg
         image_alt: Speaker 1 photo
         image_position: top
       - title: Parsley Montana
