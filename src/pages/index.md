@@ -126,7 +126,6 @@ sections:
         image_position: top
         title_align: center
       - title: Marketing Strategies
-        subtitle: 'The Studio, Distributed, Estonia'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
