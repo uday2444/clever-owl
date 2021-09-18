@@ -132,7 +132,7 @@ sections:
         title_align: center
         actions_align: center
         actions:
-          - label: E
+          - label: Read More
             url: '#'
             style: link
             has_icon: false
