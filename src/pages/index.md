@@ -189,7 +189,7 @@ sections:
     background_image: images/cta-background.png
     background_image_opacity: 50
   - type: features_section
-    title: Watch Favorite Talks From Past Events
+    title: How Do We Work !
     subtitle: 'Supporting The Cause, Building Working Together Platform'
     features:
       - title: Fast tracks Iconic Nike campaign with the JAMstack
