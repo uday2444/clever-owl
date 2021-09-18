@@ -125,6 +125,15 @@ sections:
         image_alt: Speaker 1 photo
         image_position: top
         title_align: center
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
       - title: Marketing Strategies
         image: images/marketingstrategies.jpg
         image_alt: Speaker 2 photo
