@@ -171,23 +171,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: none
-  - type: cta_section
-    title: This is a Call to Action
-    actions:
-      - label: Call Us Now
-        url: /thank-you
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: images/cta-background.png
-    background_image_opacity: 50
   - type: features_section
     title: How Do We Work !
     subtitle: 'Supporting The Cause, Building Working Together Platform'
@@ -230,6 +213,23 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+  - type: cta_section
+    title: This is a Call to Action
+    actions:
+      - label: Call Us Now
+        url: /thank-you
+        style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: images/cta-background.png
+    background_image_opacity: 50
   - type: grid_section
     grid_items:
       - title: Address
