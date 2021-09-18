@@ -198,6 +198,7 @@ sections:
 
         media_position: right
         media_width: sixty
+        image: images/strategy.jpeg
       - title: Tactic
         content: |+
           A maneuver or action calculated to achieve some end
