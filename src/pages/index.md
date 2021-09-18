@@ -193,10 +193,9 @@ sections:
     subtitle: 'Supporting The Cause, Building Working Together Platform'
     features:
       - title: Strategy
-        content: >-
-          Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
-          Crazy’ campaign and approached digital agency Matter Supply to launch
-          it on the web within a month.
+        content: |+
+          A plan of action intended to accomplish a specific goal.
+
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/2rA_ucpQ_Fk" frameborder="0"
