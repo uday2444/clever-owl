@@ -118,7 +118,7 @@ sections:
     padding_top: none
     background_color: none
   - type: grid_section
-    title: Speakers & Instructors
+    title: Services We Offer
     subtitle: Fantastic lineup of experts!
     grid_items:
       - title: Eric Widget
