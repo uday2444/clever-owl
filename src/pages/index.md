@@ -133,6 +133,7 @@ sections:
         image: images/resize-163198841962568202abstractblurdefocusedsupermarket2.jpg
         image_alt: Speaker 3 photo
         image_position: top
+        title_align: center
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
