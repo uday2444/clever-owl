@@ -120,7 +120,7 @@ sections:
   - type: grid_section
     title: Services We Offer
     grid_items:
-      - title: Eric Widget
+      - title: Facility Management
         subtitle: 'React Awesome, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
