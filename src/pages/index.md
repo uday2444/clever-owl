@@ -94,6 +94,8 @@ sections:
           meaning that they have long-term consequences and often involve a
           great deal of expense and resource commitments.
 
+
+
           Employee’s talent empowerment and rigorously training by seeing their
           present level of knowledge and areas of improvement needed
         image: images/feature-2.jpg
