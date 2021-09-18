@@ -150,7 +150,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_3.jpg
+        image: images/woman-pushing-shopping-cart-shelves-supermarket (1).jpg
         image_alt: Speaker 3 photo
         image_position: top
     grid_cols: three
