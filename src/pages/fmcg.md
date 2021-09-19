@@ -13,7 +13,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        image: images/fmcg2.jpeg
+        image: images/pexels-oleg-magni-1005638-eb23752d.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
