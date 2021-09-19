@@ -1,7 +1,7 @@
 ---
 title: FMCG BTL Services
 sections:
-  - title: FMCG BTL
+  - title: FMCG BTL SERVICE
     features:
       - subtitle: >-
           Below the line marketing, highly targeted direct marketing focused on
