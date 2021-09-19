@@ -38,7 +38,7 @@ sections:
         options:
           - FMCG BTL Services
           - Facility Mangement
-          - lorem-ipsum
+          - null
         is_required: true
       - input_type: textarea
         name: Message
