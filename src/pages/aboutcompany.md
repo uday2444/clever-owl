@@ -2,7 +2,7 @@
 title: About Company
 sections:
   - title: About Our Company
-    subtitle: lorem-ipsum
+    subtitle: Who we Are
     features: []
     feature_padding_vert: medium
     align: center
