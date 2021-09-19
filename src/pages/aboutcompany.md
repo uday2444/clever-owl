@@ -33,7 +33,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: top
-        media_width: sixty
+        media_width: thirty-three
         align: center
         image: images/aboutcompany-f8462aeb.jpeg
     feature_padding_vert: medium
