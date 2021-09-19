@@ -19,7 +19,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: top
-        media_width: thirty-three
+        media_width: sixty
         align: center
         image: images/fmcg.jpg
     feature_padding_vert: small
