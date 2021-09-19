@@ -1,7 +1,7 @@
 ---
 title: FACILITY MANAGEMENT
 sections:
-  - title: lorem-ipsum
+  - title: FACILITY MANAGEMENT
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
