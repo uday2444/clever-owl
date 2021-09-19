@@ -1,7 +1,7 @@
 ---
 title: Marketing Strategies
 sections:
-  - title: lorem-ipsum
+  - title: Marketing Strategies
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
