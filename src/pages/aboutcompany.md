@@ -1,7 +1,7 @@
 ---
 title: About Company
 sections:
-  - title: 'About '
+  - title: About Our Company
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
