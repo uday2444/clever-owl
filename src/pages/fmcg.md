@@ -3,8 +3,7 @@ title: FMCG BTL Services
 sections:
   - title: FMCG BTL SERVICE
     features:
-      - title: lorem-ipsum
-        subtitle: >-
+      - subtitle: >-
           Below the line marketing, highly targeted direct marketing focused on
           conversions, which will be more impact on the best responses and
           conversions
