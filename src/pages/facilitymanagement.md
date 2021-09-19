@@ -8,7 +8,7 @@ sections:
         image_alt: facility
         media_position: top
         media_width: fifty
-        align: left
+        align: center
         subtitle: Services Offered
     feature_padding_vert: medium
     align: center
