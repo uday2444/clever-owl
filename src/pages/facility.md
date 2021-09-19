@@ -9,7 +9,7 @@ sections:
         media_position: top
         media_width: fifty
         align: center
-        image: images/fmcg2.jpeg
+        image: images/fm3.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
