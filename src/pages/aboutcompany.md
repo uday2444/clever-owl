@@ -23,6 +23,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    background_image: images/aboutcompany.jpeg
 seo:
   title: ''
   description: ''
