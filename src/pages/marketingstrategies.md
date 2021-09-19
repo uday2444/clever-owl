@@ -3,7 +3,11 @@ title: Marketing Strategies
 sections:
   - title: MARKETING STRATEGIES
     features:
-      - subtitle: lorem-ipsum
+      - subtitle: >-
+          Art of planning design to achieve long-term advancement. Reaching
+          prospective consumers turning into customers revolves around a company
+          proposition by which it interfaces company profile, operations,
+          deserves of association.
         content: >-
           ## Lorem ipsum
 
