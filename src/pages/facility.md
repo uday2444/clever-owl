@@ -1,8 +1,7 @@
 ---
 title: FACILITY MANAGEMENT
 sections:
-  - title: FMCG BTL SERVICE
-    features:
+  - features:
       - subtitle: >-
           Below the line marketing, highly targeted direct marketing focused on
           conversions, which will be more impact on the best responses and
