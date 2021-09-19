@@ -13,7 +13,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        image: images/pexels-oleg-magni-1005638-eb23752d.jpg
+        image: images/woman-pushing-shopping-cart-shelves-supermarket (1).jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
