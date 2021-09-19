@@ -21,7 +21,7 @@ sections:
         media_position: top
         media_width: thirty-three
         align: center
-        image: images/pexels-oleg-magni-1005638.jpg
+        image: images/fmcg.jpg
     feature_padding_vert: small
     align: center
     padding_top: none
