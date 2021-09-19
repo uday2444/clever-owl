@@ -38,7 +38,7 @@ sections:
         options:
           - FMCG BTL Services
           - Facility Mangement
-          - null
+          - Marketing Strategies
         is_required: true
       - input_type: textarea
         name: Message
