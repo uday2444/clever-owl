@@ -34,7 +34,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
-        align: left
+        align: center
         image: images/aboutcompany-f8462aeb.jpeg
     feature_padding_vert: medium
     align: center
