@@ -19,7 +19,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: top
-        media_width: fifty
+        media_width: thirty-three
         align: center
         image: images/pexels-oleg-magni-1005638.jpg
     feature_padding_vert: medium
