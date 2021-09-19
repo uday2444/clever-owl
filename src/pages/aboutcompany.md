@@ -2,7 +2,7 @@
 title: About Company
 sections:
   - title: About Our Company
-    subtitle: lorem-ipsum
+    subtitle: Who We Are
     actions: []
     blog_feed_cols: three
     enable_cards: false
