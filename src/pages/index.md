@@ -143,7 +143,7 @@ sections:
         actions_align: center
         actions:
           - label: Read More
-            url: /sponsorship
+            url: /marketingstrategies
             style: primary
             has_icon: false
             icon: arrow-left
