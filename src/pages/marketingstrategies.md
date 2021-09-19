@@ -1,7 +1,7 @@
 ---
 title: Marketing Strategies
 sections:
-  - title: lorem-ipsum
+  - title: MARKETING STRATEGIES
     subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
