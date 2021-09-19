@@ -22,7 +22,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
-    background_image: images/marketing-blog.jpeg
     category: src/data/categories/category-s5emwjnbl.json
 seo:
   title: ''
