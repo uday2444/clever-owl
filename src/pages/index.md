@@ -232,7 +232,7 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     grid_items:
-      - title: Address
+      - title: Location
         content: |
           Bangalore
 
