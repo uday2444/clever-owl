@@ -23,7 +23,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fifty
-        align: left
+        align: center
         image: images/pexels-oleg-magni-1005638.jpg
     feature_padding_vert: medium
     align: center
