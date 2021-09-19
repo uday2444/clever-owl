@@ -127,7 +127,7 @@ sections:
         title_align: center
         actions:
           - label: Read More
-            url: /sponsorship
+            url: /facilitymanagemnt
             style: primary
             has_icon: false
             icon: arrow-left
