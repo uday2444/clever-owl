@@ -238,9 +238,7 @@ sections:
 
           9606604545
 
-          www.trustsecur@gmail.com
-
-          **Time:** 9:30 AM to 6:30 PM
+          www.trustsecurefmhr@gmail.com
       - title: Follow Us
         content: |
           [Linkedin](https://www.linkedin.com/company/79639336/admin/)
