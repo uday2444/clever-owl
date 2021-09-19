@@ -12,7 +12,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
-        align: center
+        align: left
         image: images/fmcg2.jpeg
     feature_padding_vert: medium
     align: center
