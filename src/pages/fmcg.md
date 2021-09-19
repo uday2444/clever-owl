@@ -22,7 +22,7 @@ sections:
         media_width: sixty
         align: center
         image: images/fmcg.jpg
-    feature_padding_vert: small
+    feature_padding_vert: medium
     align: center
     padding_top: none
     padding_bottom: none
