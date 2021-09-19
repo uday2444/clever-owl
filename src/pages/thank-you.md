@@ -37,6 +37,7 @@ sections:
         label: Subject
         options:
           - FMCG BTL Services
+          - lorem-ipsum
         is_required: true
       - input_type: textarea
         name: Message
