@@ -234,12 +234,9 @@ sections:
     grid_items:
       - title: Address
         content: |
-          Thyagraj Nagar , Basavanagudi
+          Bangalore
 
-          Bangalore, 500070
-
-          90664 94937   
-
+          9606604545
 
           www.trustsecur@gmail.com
 
