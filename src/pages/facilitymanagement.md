@@ -5,7 +5,6 @@ sections:
     subtitle: lorem-ipsum
     features:
       - title: FACILITY MANAGEMENT
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
